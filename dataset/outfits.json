@@ -1,0 +1,64 @@
+{
+    "outfits": {
+        "cloud": {
+            "male": [
+                {
+                    "name": "Mtxt1",
+                    "image": "https://fakeimg.pl/250x100/ff0000/"
+                },
+                {
+                    "name": "Mtxt2",
+                    "image": "https://fakeimg.pl/250x100/ff0000/"
+                },
+                {
+                    "name": "Mtxt3",
+                    "image": "https/text3.com"
+                }
+            ],
+            "female": [
+                {
+                    "name": "Ftxt11",
+                    "image": "https://fakeimg.pl/250x100/ff0000/"
+                },
+                {
+                    "name": "Ftxt22",
+                    "image": "https/text22.com"
+                },
+                {
+                    "name": "Ftxt33",
+                    "image": "https/text33.com"
+                }
+            ]
+        },
+        "rain": {
+            "male": [
+                {
+                    "name": "Mrain1",
+                    "image": "https://fakeimg.pl/250x100/ff0000/"
+                },
+                {
+                    "name": "Mrain2",
+                    "image": "https/text2.com"
+                },
+                {
+                    "name": "Mrain3",
+                    "image": "https/text3.com"
+                }
+            ],
+            "female": [
+                {
+                    "name": "Frain11",
+                    "image": "https://fakeimg.pl/250x100/ff0000/"
+                },
+                {
+                    "name": "Frain22",
+                    "image": "https/text22.com"
+                },
+                {
+                    "name": "Frain133",
+                    "image": "https/text33.com"
+                }
+            ]
+        }
+    }
+}
